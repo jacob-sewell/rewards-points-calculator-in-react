@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Simple Rewards Points Calculator using React
+
+This is a very simple demonstration of calculations, data mocking, and unit testing in React. Feel free to clone it and run it locally to play around with it.
+
+# About Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
